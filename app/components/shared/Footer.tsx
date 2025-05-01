@@ -20,9 +20,6 @@ function Footer() {
             url: "https://behance.net",
         },
     ];
-
-
-
     return (
         <div>
             <footer className="bg-background text-white text-base font-light shadow-sm">
